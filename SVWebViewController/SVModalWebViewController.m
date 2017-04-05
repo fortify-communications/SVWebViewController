@@ -11,8 +11,6 @@
 
 @interface SVModalWebViewController ()
 
-@property (nonatomic, strong) SVWebViewController *webViewController;
-
 @end
 
 @interface SVWebViewController (DoneButton)
