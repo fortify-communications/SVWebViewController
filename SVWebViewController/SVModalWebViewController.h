@@ -1,12 +1,14 @@
 //
 //  SVModalWebViewController.h
 //
-//  Created by Oliver Letterer on 13.08.11.
-//  Copyright 2011 Home. All rights reserved.
+//  Created by Fortify Communications on 05.04.17.
+//  Copyright 2017 Home. All rights reserved.
 //
-//  https://github.com/samvermette/SVWebViewController
+//  https://github.com/fortify-communications/SVWebViewController
 
 #import <UIKit/UIKit.h>
+
+@class SVWebViewController;
 
 @interface SVModalWebViewController : UINavigationController
 
